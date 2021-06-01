@@ -1,0 +1,1 @@
+document.write("<h1>hollow world！</h1>")
